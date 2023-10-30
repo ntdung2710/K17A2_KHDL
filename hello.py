@@ -1,0 +1,1 @@
+print("Xin chào Khoa: Khoa học ứng dụng!!!")
