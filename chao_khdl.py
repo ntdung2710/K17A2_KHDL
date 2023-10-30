@@ -1,0 +1,1 @@
+print("Chào tân sinh viên KHDLK17")
